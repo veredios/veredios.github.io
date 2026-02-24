@@ -45,7 +45,7 @@
         font-weight: bold;
     }
 </style>
-</head>
+
 <body>
 
 <h1>🎡 Roulette des Donjons Dofus</h1>
