@@ -1,8 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-<meta charset="UTF-8">
-<title>Roulette des Donjons Dofus</title>
 <style>
     body {
         font-family: Arial, sans-serif;
@@ -282,4 +277,3 @@ function closeModal() {
 </script>
 
 </body>
-</html>
